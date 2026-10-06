@@ -1,5 +1,13 @@
 # DataFlow Analytics
 
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/Python-ETL-3776AB?logo=python&logoColor=white">
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-Data-150458?logo=pandas&logoColor=white">
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-SQL-003B57?logo=sqlite&logoColor=white">
+  <a href="https://github.com/dudxzz-25/dataflow-analytics/actions/workflows/ci.yml"><img alt="CI" src="https://github.com/dudxzz-25/dataflow-analytics/actions/workflows/ci.yml/badge.svg"></a>
+</p>
+
+
 [![CI](https://github.com/dudxzz-25/dataflow-analytics/actions/workflows/ci.yml/badge.svg)](https://github.com/dudxzz-25/dataflow-analytics/actions/workflows/ci.yml)
 
 Pipeline ETL de vendas construído com **Python, Pandas e SQL**. O projeto simula uma pequena operação comercial, trata dados brutos, aplica validações de qualidade, carrega um banco SQLite e disponibiliza consultas analíticas para exploração.
